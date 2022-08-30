@@ -57,3 +57,7 @@ section#redes-sociais img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.596);
     transition: transform .3s, border 1s;
 }
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
